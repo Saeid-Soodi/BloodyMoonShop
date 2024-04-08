@@ -4,7 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        "primary":"#660000"
+        "bloody":{
+          900:"#880808",
+          800:"#AB2328",
+          500:"#E10600",
+          700:"#BD162C",
+          200:"#FF6D6A"
+        }
       }
     },
   },
