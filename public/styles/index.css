@@ -554,17 +554,7 @@ video {
   --tw-contain-style:  ;
 }
 
-.bg-red-950 {
+.bg-bloody {
   --tw-bg-opacity: 1;
-  background-color: rgb(69 10 10 / var(--tw-bg-opacity));
-}
-
-.bg-primary {
-  --tw-bg-opacity: 1;
-  background-color: rgb(102 0 0 / var(--tw-bg-opacity));
-}
-
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  background-color: rgb(136 8 8 / var(--tw-bg-opacity));
 }

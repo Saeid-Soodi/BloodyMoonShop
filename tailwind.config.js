@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors:{
         "bloody":{
-          900:"#880808",
+          DEFAULT:"#880808",
           800:"#AB2328",
           500:"#E10600",
           700:"#BD162C",
