@@ -1,0 +1,17 @@
+{
+  "name": "bloodymoon",
+  "version": "1.0.0",
+  "description": "saeed soodi's online shop",
+  "main": "index.js",
+  "scripts": {
+    "index": "npx tailwindcss -i ./src/input.css -o ./public/styles/index.css --watch"
+  },
+  "keywords": [
+    "bloodymoon"
+  ],
+  "author": "saeed soodi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
